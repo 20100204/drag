@@ -1,0 +1,11 @@
+{
+    "name": "administrator/drag",
+    "description": "packagist test",
+    "authors": [
+        {
+            "name": "shixiao",
+            "email": "274605391@qq.com"
+        }
+    ],
+    "require": {}
+}
